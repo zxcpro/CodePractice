@@ -1,4 +1,4 @@
 CodePractice
 ============
 
-Simple algorithm code practice.
+Simple code practice.
