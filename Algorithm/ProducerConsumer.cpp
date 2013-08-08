@@ -34,22 +34,6 @@ void consume(){
 	}
 }
 
-void consume(){
-
-}
-
-
-
-
-int main(){
-
-
-
-
-
-
-}
-
 
 
 
