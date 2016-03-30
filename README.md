@@ -1,4 +1,4 @@
 CodePractice
 ============
 
-Simple code practice.
+Code practice demo.
